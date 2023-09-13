@@ -1,0 +1,27 @@
+
+#btn{
+    background-color: #e1bdcc;
+    padding: 5px;
+    margin: 2px;
+}
+#btn:hover{
+    background-color: rgba(175, 138, 82, 0.73);
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* 100% of the viewport height */
+    margin:0;
+}
+
+
+.container {
+
+    text-align: center;
+    padding: 30px;
+    background-color: lightblue;
+    border: 2px solid blue;
+
+}
+
